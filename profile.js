@@ -1,4 +1,4 @@
-const imageInput = document.getElementById("image-input");
+/******const imageInput = document.getElementById("image-input");
 const profileImage = document.getElementById("profile-image");
 const nameInput = document.getElementById("name-input");
 const saveButton = document.getElementById("save-button");
@@ -32,4 +32,4 @@ saveButton.addEventListener("click", () => {
   profileImage.alt = name;
   localStorage.setItem("name", name);
   alert("Profile saved!");
-});
+});*****/
